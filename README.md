@@ -33,6 +33,9 @@ chatbridge-extension/
 3. Click **Load Unpacked** and select `chatbridge-extension`
 4. Use the extension popup to paste, save, and retrieve ChatGPT chats
 
+https://github.com/user-attachments/assets/03e43845-b1a9-49dd-acfd-a51e02175818
+
+
 ---
 
 ## Author
