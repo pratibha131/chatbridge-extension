@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  width: 300px;
+  padding: 10px;
+}
+textarea {
+  width: 100%;
+  height: 100px;
+}
+input {
+  width: 100%;
+  margin-top: 5px;
+}
+button {
+  margin-top: 5px;
+  width: 100%;
+}
+#savedChats {
+  margin-top: 10px;
+}
+.chat-entry {
+  border: 1px solid #ccc;
+  padding: 5px;
+  margin-bottom: 5px;
+  cursor: pointer;
+}

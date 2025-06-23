@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "ChatBridge",
+  "version": "1.0",
+  "description": "Save and continue your ChatGPT chats easily.",
+  "permissions": ["storage", "clipboardWrite", "activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  }
+}
