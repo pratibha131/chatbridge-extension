@@ -16,10 +16,15 @@ https://github.com/user-attachments/assets/d6839e0c-19a5-4e4b-99f6-b5a9edbebf69
 ## Folder Structure
 
 chatbridge-extension/
+
 ├── manifest.json
+
 ├── popup.html
+
 ├── popup.js
+
 ├── style.css
+
 └── icons/
 ├── icon16.png
 ├── icon48.png
@@ -33,7 +38,8 @@ chatbridge-extension/
 3. Click **Load Unpacked** and select `chatbridge-extension`
 4. Use the extension popup to paste, save, and retrieve ChatGPT chats
 
-https://github.com/user-attachments/assets/03e43845-b1a9-49dd-acfd-a51e02175818
+https://github.com/user-attachments/assets/7abe81a2-89e9-463b-ba44-2afcae390420
+
 
 
 ---
