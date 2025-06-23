@@ -8,6 +8,11 @@ A simple Chrome extension to **save and continue ChatGPT chats** using a popup i
 - 🧠 View saved conversations
 - 🔄 Link back to older chats
 
+## Demo 
+
+https://github.com/user-attachments/assets/d6839e0c-19a5-4e4b-99f6-b5a9edbebf69
+
+
 ## Folder Structure
 
 chatbridge-extension/
